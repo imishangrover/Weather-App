@@ -3,7 +3,7 @@ import 'package:climate/services/networking.dart';
 
 double? latitude;
 double? longitude;
-const apiKey = '7c50f02b3062324ac98131fdfc14f637';
+
 
 class WeatherModel {
 
